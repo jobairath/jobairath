@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jobairath
-- 👀 I’m interested in ... 
+- 👀 I’m interested in using git for non code vc
 - 🌱 I’m currently learning ... the pythons, and financial responsibility
 - 💞️ I’m looking to collaborate on ... a visual novel/ text based choose your adventure game 
 
